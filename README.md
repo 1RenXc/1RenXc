@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dearen Kansil</h1>
+<h1 align="center">Hi 👋, I'm Dearen Otniel Kansil</h1>
 <h3 align="center">Cybersecurity Enthusiast | Offensive Security | Pentesting</h3>
 
 - 👨‍💻 I’m currently learning **Cybersecurity**
