@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/dearen-otniel-kansil-071b44429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dearen otniel kansil" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dearen-otniel-kansil-071b44429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dearen-otniel-kansil-071b44429" height="30" width="40" /></a>
 <a href="https://instagram.com/_dzrenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dzrenn" height="30" width="40" /></a>
 </p>
 
