@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dearen Kansil</h1>
 <h3 align="center">Learning cybersecurity by building, breaking, and documenting.</h3>
 
-- 👨‍💻 All of my projects are available at [https://1renxc.github.io/dearenkansil-portofolio/](https://1renxc.github.io/dearenkansil-portofolio/)
+- 👨‍💻 I’m currently learning **Cybersecurity**
+
+- 🌱 All of my projects are available at [https://1renxc.github.io/dearenkansil-portofolio/](https://1renxc.github.io/dearenkansil-portofolio/)
 
 - 📫 How to reach me **dearenkansil@gmail.com**
 
