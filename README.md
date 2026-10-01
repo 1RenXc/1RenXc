@@ -5,7 +5,7 @@
 
 - 🌱 All of my projects are available at [https://1renxc.github.io/dearenkansil-portofolio/](https://1renxc.github.io/dearenkansil-portofolio/)
 
--  My Cybersecurity playground at [https://tryhackme.com/p/RenXc1](https://tryhackme.com/p/RenXc1)
+- 👾 My Cybersecurity playground at [https://tryhackme.com/p/RenXc1](https://tryhackme.com/p/RenXc1)
 
 - 📫 How to reach me **dearenkansil@gmail.com**
 
